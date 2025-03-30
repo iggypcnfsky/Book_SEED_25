@@ -26,9 +26,9 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 
 ### 1. The Stone of Origins
 - **Time Period**: Present day
-- **Location**: Oaxaca, Mexico
-- **Focus**: Discovery and ancient wisdom. An archaeological investigation uncovers an ancient temple and the initial manifestation of the symbol.
-- ![Book 1 Cover](Book_1_The_Stone_of_Origins/images/book1_cover_placeholder.png) *<-- Placeholder*
+- **Location**: A global journey starting in Oaxaca, Mexico, traversing ancient sites and modern hubs (Giza, Kyoto, NYC, Geneva).
+- **Focus**: Discovery and ancient wisdom. Archaeologist Ava Castillo uncovers a hidden temple in Oaxaca featuring the Seed symbol, leading her on a global chase for clues across ancient sites while being pursued by a shadowy organization seeking the symbol's power.
+- ![Book 1 Cover](book_1/images/book1.png) *<-- Placeholder*
 
 ---
 
@@ -36,7 +36,7 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 - **Time Period**: Present day
 - **Location**: European underground
 - **Focus**: Power and knowledge. Explores a secret society, their rituals, and the symbol as a religious artifact tied to an Ascension prophecy.
-- ![Book 2 Cover](Book_2_The_Society_of_the_Veil/images/book2_cover_placeholder.png) *<-- Placeholder*
+- ![Book 2 Cover](book_2/images/book2.png) *<-- Placeholder*
 
 ---
 
@@ -44,7 +44,7 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 - **Time Period**: Near future
 - **Location**: Genetic research facilities
 - **Focus**: Evolution and responsibility. Focuses on DNA manipulation, evolutionary triggers, corporate conspiracy, and scientific discovery.
-- ![Book 3 Cover](Book_3_Echoes_in_the_Helix/images/book3_cover_placeholder.png) *<-- Placeholder*
+- ![Book 3 Cover](book_3/images/book3.png) *<-- Placeholder*
 
 ---
 
@@ -52,7 +52,7 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 - **Time Period**: Mid-future
 - **Location**: Futuristic cityscapes
 - **Focus**: Harmony and balance. Deals with sustainable architecture, urban transformation, social upheaval, and technological integration.
-- ![Book 4 Cover](Book_4_Arcology_Ascendance/images/book4_cover_placeholder.png) *<-- Placeholder*
+- ![Book 4 Cover](book_4/images/book4.png) *<-- Placeholder*
 
 ---
 
@@ -60,7 +60,7 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 - **Time Period**: Far future
 - **Location**: Interstellar space
 - **Focus**: Exploration and destiny. Centers on space exploration, generation ships, celestial navigation using The Seed, and human destiny among the stars.
-- ![Book 5 Cover](Book_5_Dominion_of_the_Skies/images/book5_cover_placeholder.png) *<-- Placeholder*
+- ![Book 5 Cover](book_5/images/book5.png) *<-- Placeholder*
 
 ---
 
@@ -68,7 +68,7 @@ Each book delves into a distinct era, revealing new facets of The Seed's nature 
 - **Time Period**: Post-human era
 - **Location**: Digital-physical hybrid realm
 - **Focus**: Transcendence and continuity. Explores AI consciousness, universal patterns, eternal cycles, legacy, and renewal.
-- ![Book 6 Cover](Book_6_The_Seed_Eternal/images/book6_cover_placeholder.png) *<-- Placeholder*
+- ![Book 6 Cover](book_6/images/book6.png) *<-- Placeholder*
 
 ---
 
