@@ -1,8 +1,8 @@
-# The Seed of Ascendance - A Book Series
+# THE SEED - A Book Series
 
 ## Overview
 
-"The Seed of Ascendance" is a multi-book series spanning from ancient pre-Columbian times to a post-human future. It follows the discovery and unfolding mystery of **The Seed Symbol**, a recurring motif that appears across time and space, connecting ancient wisdom, human evolution, technological advancement, and the ultimate destiny of consciousness.
+"THE SEED" is a multi-book series spanning from ancient pre-Columbian times to a post-human future. It follows the discovery and unfolding mystery of **The Seed Symbol**, a recurring motif that appears across time and space, connecting ancient wisdom, human evolution, technological advancement, and the ultimate destiny of consciousness.
 
 ## The Seed Symbol
 

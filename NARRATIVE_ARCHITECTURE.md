@@ -1,4 +1,4 @@
-# The Seed of Ascendance - Narrative Architecture
+# THE SEED - Narrative Architecture
 
 ## Core Elements
 
