@@ -1,6 +1,6 @@
 # Chapter 1: The Forgotten Path
 
-![The Seed Symbol](./images/seed.png) *<-- Placeholder for Seed Symbol Image*
+![The Seed Symbol](../images/seed.png) *<-- Placeholder for Seed Symbol Image*
 
 "Right, let's try this relationship again," Alex grunted, heaving the biomechanically-unsound torture device—also known as a backpack—higher onto his shoulders. Like settling into a bad marriage, adjusting it wouldn't fix the problem, just relocate the misery. And yup, there it was – a strap finding a nerve cluster with surgical precision. He sucked air through his teeth.
 
