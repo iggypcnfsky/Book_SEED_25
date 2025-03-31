@@ -1,0 +1,11 @@
+- add historical bits, insights
+- add chapter on searching for the guide, some funny story
+- add description of mateo house, and resting there, drinking tea
+- more cool gadgets in analyzing , drones, scanning, using ai for quick analysis
+- relationship between alex and mateo, more like friends through hardship, not like boss/employee
+- chapter 7 cliffhanger 
+- add AI friend character that helps with analysis, funny, edgy, provocative but loyal
+- add latest discoveries about pyramids into the mix
+- let’s wait longer with the reveal who’s behind the tactical survellience
+- let alex do some work to figure it out
+- more dialogues 

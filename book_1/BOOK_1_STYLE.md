@@ -15,4 +15,5 @@ This document outlines the core stylistic elements for writing chapters in Book 
     *   **Beginning:** Start with Alex's immediate thoughts or actions, often grounded in a relatable, sarcastic observation.
     *   **Middle:** Develop the scene through exploration, internal monologue, sensory details, and overcoming minor obstacles/conflicts.
     *   **Ending:** Conclude each chapter with a significant discovery, a moment of heightened tension, or an unresolved question (a cliffhanger) to propel the reader forward.
-9.  **Themes:** Exploration, discovery, the unknown, ancient mysteries vs. modern understanding, endurance, the clash between the mundane (physical discomfort, doubt) and the extraordinary. 
+9.  **Educational Enrichment:** Where appropriate and natural within the narrative (e.g., through Kai's analysis, Alex's expertise, or Mateo's local knowledge), weave in factual historical, archaeological, cultural, or scientific details. Aim to provide interesting context or tidbits that enrich the story and allow the reader to learn something new without disrupting the flow or feeling like an info-dump.
+10. **Themes:** Exploration, discovery, the unknown, ancient mysteries vs. modern understanding, endurance, the clash between the mundane (physical discomfort, doubt) and the extraordinary. 
