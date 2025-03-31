@@ -1,5 +1,7 @@
 # Chapter 2: Temple of Whispers
 
+![The Seed Symbol](../images/book1chapter2.jpg)
+
 *Okay, Alex,* he thought, heart pounding a frantic drum solo against his ribs. *Rule one: When you find architecture that makes Escher look straightforward, maybe check your water bottle for psychedelic frog residue.*
 
 *"Bio-scans negative for hallucinogens, Alex,"* Kai chimed in, ever helpful. *"Though your adrenaline levels *are* trying to set a new world record. Deep breaths. What you're seeing? Yeah, it's actually there. Unless we're both hallucinating, which would be a fascinating shared psychosis."*
